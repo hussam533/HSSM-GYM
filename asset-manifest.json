@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/HSSM-GYM/static/css/main.efdb0ab9.css",
-    "main.js": "/HSSM-GYM/static/js/main.ed91f240.js",
+    "main.js": "/HSSM-GYM/static/js/main.40ffe6bd.js",
     "static/js/453.070c65df.chunk.js": "/HSSM-GYM/static/js/453.070c65df.chunk.js",
     "index.html": "/HSSM-GYM/index.html",
     "main.efdb0ab9.css.map": "/HSSM-GYM/static/css/main.efdb0ab9.css.map",
-    "main.ed91f240.js.map": "/HSSM-GYM/static/js/main.ed91f240.js.map",
+    "main.40ffe6bd.js.map": "/HSSM-GYM/static/js/main.40ffe6bd.js.map",
     "453.070c65df.chunk.js.map": "/HSSM-GYM/static/js/453.070c65df.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.efdb0ab9.css",
-    "static/js/main.ed91f240.js"
+    "static/js/main.40ffe6bd.js"
   ]
 }
