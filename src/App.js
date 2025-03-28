@@ -15,7 +15,7 @@ import GetStarted from './pages/GetStarted';
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <div className="flex flex-col min-h-screen">
         <Header />
         <main className="flex-grow">
